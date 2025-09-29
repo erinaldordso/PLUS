@@ -71,3 +71,4 @@ apt install wget -y; bash <(wget -qO- https://github.com/JeanRocha91x/psshplus-/
 
 # 🚀 VPN MONEY:
 👉 https://kiwify.app/NKl55g5.
+# SSHPLUS
